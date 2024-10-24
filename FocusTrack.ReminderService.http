@@ -1,0 +1,6 @@
+@FocusTrack.ReminderService_HostAddress = http://localhost:5223
+
+GET {{FocusTrack.ReminderService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
